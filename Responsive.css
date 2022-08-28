@@ -1,0 +1,15 @@
+
+/* ========================================
+        Responsive Code 
+========================================         */
+@media screen 
+   
+  and (max-device-width: 570px) {
+     .top{
+         font-size: calc(.7vw + 1rem);
+     }
+     .btn
+     {
+          /* top: 1.5rem;  */
+    }
+}
